@@ -136,7 +136,7 @@ body{
 /* Home page */
 /* model section */
 #model{
-    background-image: url(../img/models/model1.jpg);
+    background-image: url(img/models/model1.jpg);
     height: 150vh;
     width: 100%;
     background-size: cover;
@@ -157,7 +157,7 @@ body{
     color: beige;
 }
 #model button{
-    background-image: url(../img/button.png);
+    background-image: url(img/button.png);
     border: 0;
     background-size: cover;
     background-color: transparent;
@@ -309,7 +309,7 @@ body{
     justify-content: center;
     align-items: center;
     color: white;
-    background-image: url(../img/banner/b2.jpg);
+    background-image: url(img/banner/b2.jpg);
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -349,7 +349,7 @@ body{
     justify-content: center;
     align-items: flex-start;
     color: white;
-    background-image: url(../img/banner/b17.jpg);
+    background-image: url(img/banner/b17.jpg);
     margin-bottom: 20px;
     margin-left:90px ;
     padding: 30px;
@@ -366,7 +366,7 @@ body{
     justify-content: center;
     align-items: flex-start;
     color: white;
-    background-image: url(../img/banner/b10.jpg);
+    background-image: url(img/banner/b10.jpg);
     margin-bottom: 20px;
     margin-right:90px ;
     padding: 30px;
@@ -400,7 +400,7 @@ body{
 #child-banner .banner-box-1{
     align-items: flex-start;
     color: white;
-    background-image: url(../img/banner/b7.jpg);
+    background-image: url(img/banner/b7.jpg);
     margin-bottom: 20px;
     /* margin-left:90px ; */
     padding: 30px;
@@ -414,7 +414,7 @@ body{
 #child-banner .banner-box-2{
     align-items: flex-start;
     color: white;
-    background-image: url(../img/models/model2.jpg);
+    background-image: url(img/models/model2.jpg);
     margin-bottom: 20px;
     /* margin-left:90px ; */
     padding: 30px;
@@ -428,7 +428,7 @@ body{
 #child-banner .banner-box-3{
     align-items: flex-start;
     color: white;
-    background-image: url(../img/models/model3.jpg);
+    background-image: url(img/models/model3.jpg);
     margin-bottom: 20px;
     /* margin-left:90px ; */
     padding: 30px;
@@ -446,7 +446,7 @@ body{
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    background-image: url(../img/models/model5.jpg);
+    background-image: url(img/models/model5.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -662,7 +662,7 @@ footer .column4 .row img{
     
        }
        #model {
-        background-image: url(../img/models/model1.jpg);
+        background-image: url(img/models/model1.jpg);
         height: 100vh;
         width: 100%;
         background-size: cover;
@@ -744,7 +744,7 @@ footer .column4 .row img{
     #child-banner .banner-box-1 {
         align-items: flex-start;
         color: white;
-        background-image: url(../img/banner/b7.jpg);
+        background-image: url(img/banner/b7.jpg);
         margin-bottom: 20px;
         margin-left: 0px;
         padding: 30px;
@@ -759,7 +759,7 @@ footer .column4 .row img{
     #child-banner .banner-box-2 {
         align-items: flex-start;
         color: white;
-        background-image: url(../img/models/model2.jpg);
+        background-image: url(img/models/model2.jpg);
         margin-bottom: 20px;
         margin-left: 0px;
         padding: 30px;
@@ -773,7 +773,7 @@ footer .column4 .row img{
     #child-banner .banner-box-3 {
         align-items: flex-start;
         color: white;
-        background-image: url(../img/models/model3.jpg);
+        background-image: url(img/models/model3.jpg);
         margin-bottom: 20px;
         margin-left: 0px;
         padding: 30px;
@@ -790,7 +790,7 @@ footer .column4 .row img{
         flex-wrap: wrap;
         justify-content: space-between;
         align-items: center;
-        background-image: url(../img/models/model5.jpg);
+        background-image: url(img/models/model5.jpg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -821,7 +821,7 @@ footer .column4 .row img{
 
 /* Shop page */
 #shop-banner{
-    background-image: url(../img/banner/b1.jpg);
+    background-image: url(img/banner/b1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -923,7 +923,7 @@ footer .column4 .row img{
 
  /* blog page */
  #blog-banner{
-    background-image: url(../img/banner/b19.jpg);
+    background-image: url(img/banner/b19.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -1042,7 +1042,7 @@ footer .column4 .row img{
 
 /* about page */
 #about-banner{
-    background-image: url(../img/about/banner.png);
+    background-image: url(img/about/banner.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -1109,7 +1109,7 @@ footer .column4 .row img{
 
 /* contact page */
 #contact-banner{
-    background-image: url(../img/about/banner.png);
+    background-image: url(img/about/banner.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
